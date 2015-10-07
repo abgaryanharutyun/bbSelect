@@ -1,0 +1,26 @@
+{
+  "name": "bbSelect",
+  "version": "0.0.1",
+  "homepage": "https://github.com/abgaryanharutyun/bbSelect",
+  "authors": [
+    "Harutyun <harutyunabgaryan@gmail.com>"
+  ],
+  "description": "Custom Select box with set image and more details",
+  "main": "jQuery.BBSelect.min.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "custom",
+    "selectbox",
+    "image",
+    "select",
+    "box",
+    "image",
+    "jquery",
+    "plugin",
+    "selected",
+    "option"
+  ],
+  "license": "MIT"
+}
